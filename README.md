@@ -1,2 +1,3 @@
 # practice
 Practice programs
+The project was to create a basic calculator in C++. I wrote the code to account for erroneous input and to correctly calculate according to order of operations. I believe that I can enhance the program regarding the user interface by adding more capabilities and visuals. The most difficult part was ensuring that the main function be as small and simple as possible while referring to outside functions. The logical approach in deconstructing all the possible ways the code could break is something that I'll be able to apply to other courses and projects. I tried my best to use consistent naming conventions, comments, and moderate line length to make the program maintainable, readable, and adaptable.
